@@ -25,6 +25,14 @@ https://jsonplaceholder.typicode.com/
 
 ![Application](/img/pic-02.png?raw=true)
 
+<br/>
+
+### Step 3
+
+    $ npm install --save redux react-redux redux-thunk
+
+![Application](/img/pic-03.png?raw=true)
+
 ---
 
 **Marley**
