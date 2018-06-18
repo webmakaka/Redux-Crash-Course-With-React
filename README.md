@@ -13,6 +13,12 @@ https://jsonplaceholder.typicode.com/
     $ create-react-app .
     $ npm start
 
+<br/>
+
+### Step 1
+
+![Application](/img/pic-01.png?raw=true)
+
 ---
 
 **Marley**
