@@ -49,6 +49,12 @@ https://jsonplaceholder.typicode.com/
 
 ![Application](/img/pic-06.png?raw=true)
 
+<br/>
+
+### Step 6
+
+![Application](/img/pic-07.png?raw=true)
+
 ---
 
 **Marley**
