@@ -19,6 +19,12 @@ https://jsonplaceholder.typicode.com/
 
 ![Application](/img/pic-01.png?raw=true)
 
+<br/>
+
+### Step 2
+
+![Application](/img/pic-02.png?raw=true)
+
 ---
 
 **Marley**
